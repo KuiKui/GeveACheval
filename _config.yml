@@ -1,0 +1,9 @@
+# Site settings
+title: Gève à cheval
+email: regugedegeve38@gmail.com
+description: "Promenades à cheval dans le Vercors, au départ du Refuge de Gève."
+baseurl: ""
+url: "http://geve-a-cheval.com"
+
+# Build settings
+markdown: kramdown
