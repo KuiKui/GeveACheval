@@ -1172,3 +1172,16 @@ right: 0; /* 6 columns */
 .featured-block .feature .pull-left {
     width: 15%;
 }
+
+.cover-block img {
+    width: 25%;
+}
+
+.cover-block h1 {
+    margin-top: 0;
+}
+
+.credits {
+    font-size: 10px;
+    color: #555;
+}
